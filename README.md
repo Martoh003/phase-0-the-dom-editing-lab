@@ -39,7 +39,7 @@ DOM nodes most often have a starting tag and an ending tag. Examples include a
 paragraph:
 
 ```html
-<p>I am a paragraph.</p>
+<p>I am a paragraph.</p> 
 ```
 
 or a `main` section:
@@ -96,9 +96,9 @@ previous lesson for your development environment.
 Just to speed things up a bit, paste the following code into `index.html`:
 
 ```html
-<!DOCTYPE html>
+DOCTYPE html>
 <html lang="en">
-  <head>
+  <head><!
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
